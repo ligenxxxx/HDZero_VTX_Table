@@ -1,6 +1,6 @@
 {
     "description": "Betaflight VTX Config file for Sharkbyte (US version)",
-    "version": "1.0",
+    "version": "1.2",
     "vtx_table": {
         "bands_list": [
             {
@@ -21,16 +21,12 @@
         ],
         "powerlevels_list": [
             {
-                "value": 0,
+                "value": 1,
                 "label": "25 "
             },
             {
-                "value": 1,
-                "label": "200"
-            },
-            {
                 "value": 2,
-                "label": "P1"
+                "label": "200"
             },
             {
                 "value": 3,
