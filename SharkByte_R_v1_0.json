@@ -1,6 +1,6 @@
 {
     "description": "Betaflight VTX Config file for Sharkbyte (US version)",
-    "version": "1.2",
+    "version": "1.0",
     "vtx_table": {
         "bands_list": [
             {
