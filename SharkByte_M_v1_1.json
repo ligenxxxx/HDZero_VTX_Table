@@ -17,6 +17,21 @@
                     5880,
                     5917
                 ]
+            },
+            {
+                "name": "FATAHSRK",
+                "letter": "F",
+                "is_factory_band": false,
+                "frequencies": [
+                    0,
+                    5760,
+                    0,
+                    5800,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
             }
         ],
         "powerlevels_list": [
@@ -30,6 +45,10 @@
             },
             {
                 "value": 3,
+                "label": "500"
+            },
+            {
+                "value": 4,
                 "label": "0  "
             }
         ]

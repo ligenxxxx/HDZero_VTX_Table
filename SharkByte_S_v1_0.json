@@ -1,12 +1,12 @@
 {
-    "description": "Betaflight VTX Config file for Sharkbyte (US version)",
+    "description": "Betaflight VTX Config file",
     "version": "1.0",
     "vtx_table": {
         "bands_list": [
             {
                 "name": "RACEBAND",
                 "letter": "R",
-                "is_factory_band": true,
+                "is_factory_band": false,
                 "frequencies": [
                     5658,
                     5695,
@@ -30,8 +30,8 @@
             },
             {
                 "value": 3,
-                "label": "0"
-            },
+                "label": "0  "
+            }
         ]
     }
 }
