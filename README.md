@@ -1,5 +1,10 @@
-# sharkbyte_json
-Please open a free port as SmartAudio, and config VTX Table with sharkbyte_v1_0.json.  
-Then the VTX_channel osd item will be value.
+# HDZero_json
+Please open a free port as SmartAudio, and config VTX Table with json file.  
+Then the VTX_channel osd item will be value.  
 
-If the firmware version number of VTX is not greater than 32, please use v1_0, Otherwise v1_1
+if(VTX_version <= 32)  
+    use v1_0  
+else if(VTX_version <= 36)  
+    use v1_1  
+else  
+    use v1_2  

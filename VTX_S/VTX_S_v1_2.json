@@ -1,0 +1,112 @@
+{
+    "description": "Betaflight VTX Config file",
+    "version": "1.0",
+    "vtx_table": {
+        "bands_list": [
+            {
+                "name": "BOSCAM_A",
+                "letter": "A",
+                "is_factory_band": true,
+                "frequencies": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "BOSCAM_B",
+                "letter": "B",
+                "is_factory_band": true,
+                "frequencies": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "BOSCAM_E",
+                "letter": "E",
+                "is_factory_band": true,
+                "frequencies": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "FATSHARK",
+                "letter": "F",
+                "is_factory_band": true,
+                "frequencies": [
+                    0,
+                    5760,
+                    0,
+                    5800,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "RACEBAND",
+                "letter": "R",
+                "is_factory_band": true,
+                "frequencies": [
+                    5658,
+                    5695,
+                    5732,
+                    5769,
+                    5806,
+                    5843,
+                    5880,
+                    5917
+                ]
+            },
+            {
+                "name": "IMD6    ",
+                "letter": "I",
+                "is_factory_band": true,
+                "frequencies": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "powerlevels_list": [
+            {
+                "value": 14,
+                "label": "25 "
+            },
+            {
+                "value": 23,
+                "label": "200"
+            },
+            {
+                "value": 0,
+                "label": "0  "
+            }
+        ]
+    }
+}
