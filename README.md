@@ -1,4 +1,4 @@
-# HDZero_json
+# HDZero_VTX_Table
 Please open a free port as SmartAudio, and config VTX Table with json file.  
 Then the VTX_channel osd item will be value.  
 
