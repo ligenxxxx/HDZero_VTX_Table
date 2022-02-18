@@ -104,6 +104,14 @@
                 "label": "200"
             },
             {
+                "value": 27,
+                "label": "500"
+            },
+            {
+                "value": 30,
+                "label": "MAX"
+            },
+            {
                 "value": 0,
                 "label": "0  "
             }
